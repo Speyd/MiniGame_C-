@@ -1,0 +1,14 @@
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.AssemblyInfoInputs.cache
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.AssemblyInfo.cs
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.csproj.CoreCompileInputs.cache
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\bin\Debug\net8.0\MiniGame_C#.exe
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\bin\Debug\net8.0\MiniGame_C#.deps.json
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\bin\Debug\net8.0\MiniGame_C#.runtimeconfig.json
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\bin\Debug\net8.0\MiniGame_C#.dll
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\bin\Debug\net8.0\MiniGame_C#.pdb
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.dll
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\refint\MiniGame_C#.dll
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.pdb
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\MiniGame_C#.genruntimeconfig.cache
+D:\C++ проекты\MiniGame_C#\MiniGame_C#\obj\Debug\net8.0\ref\MiniGame_C#.dll
